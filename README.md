@@ -16,4 +16,6 @@
 - 所有您需要改的地方，都已经加上了注释。请务必注意原始数据存放的位置和程序中的路径是对应的。
 
 ## 3.输出结果示例
-
+![cluster](https://user-images.githubusercontent.com/112002049/191893954-93c1f89d-d430-4d9b-9b5a-6241ab5306b3.jpg)
+![boxplot](https://user-images.githubusercontent.com/112002049/191893968-3c808693-5cf5-45da-9d06-0d0a7c7ddae1.jpg)
+![var_importance2](https://user-images.githubusercontent.com/112002049/191893982-5aa0e3ae-bbe4-4d86-80b0-724090a0c76a.jpg)
